@@ -20,7 +20,6 @@ Built for **Environmental Hacks: WeMakeDevs × AWS** (Track 03: Waste and Energy
 │   ├── design/            Source art and the art pipeline inputs
 │   └── scripts/           Prerender, bundle-size report, art pipeline
 ├── docs/                  Project context: product, AWS, backend API, web, mobile, game design
-├── legacy/                The team's earlier "Butter" video-editor clone (kept for reference, not used by Oru)
 ├── CLAUDE.md              Working rules for AI-assisted frontend development
 ├── amplify.yml            AWS Amplify Hosting build config (app root: frontend)
 ├── package.json           Workspace root (pnpm)
